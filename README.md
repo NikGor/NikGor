@@ -1,2 +1,2 @@
 Hi, I’m Nikolay! 
-I’m currently learning JAVA
+I’m currently learning Python
