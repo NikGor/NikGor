@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikgor&show_icons=true&locale=en&layout=compact" alt="nikgor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikgor&show_icons=true&locale=en" alt="nikgor" /></p>
+
+[![codewars](https://www.codewars.com/users/NikGor/badges/small)](https://www.codewars.com/users/NikGor) 
