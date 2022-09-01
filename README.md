@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nikolai Gordienko</h1>
-<h3 align="center">I'm currently learning Python</h3>
-<h5 align="center">Yes, I can solve BuzzFizz ;-)</h5>
-<h5 align="center"> </h5>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikgor" alt="nikgor" /></a> </p>
+<h1 align="left">Hi 👋, I'm Nikolai Gordienko</h1>
+<h3 align="left">I'm currently learning Python</h3>
+<h5 align="left">Yes, I can solve BuzzFizz ;-)</h5>
+<h5 align="left"> </h5>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikgor" alt="nikgor" /></a> </p>
 
 
 
