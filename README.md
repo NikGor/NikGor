@@ -1,6 +1,12 @@
 <h1 align="left">Hi 👋, I'm Nikolai Gordienko</h1>
 <h3 align="left">I'm currently learning Python</h3>
-<h5 align="left">Yes, I can solve BuzzFizz ;-)</h5>
+<h5 align="left">My name is Nikolay, and I am still learning Python. By profession, I am a SAP consultant. I have been working with SAP systems for several years and have a deep understanding of how these systems work and how to customize them to meet the specific needs of my clients.
+
+I am excited to learn Python and explore the many possibilities it offers for developing a wide range of applications. As a SAP consultant, I believe that Python can be a valuable tool for automating many of the tasks that I perform on a daily basis and for building powerful data analysis and visualization tools.
+
+In my free time, I enjoy reading books and articles about programming, attending online courses and workshops, and working on my own projects. I am also a member of several online communities and forums where I can learn from other experienced developers and share my own knowledge and experience.
+
+If you are interested in my work or have any questions, please feel free to contact me. I am always happy to discuss new opportunities and challenges in the field of programming and SAP consulting. 😊</h5>
 <h5 align="left"> </h5>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikgor" alt="nikgor" /></a> </p>
 
