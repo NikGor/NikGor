@@ -4,7 +4,7 @@
 <p>I am proficient in the use of command line, Git, and setting up a Python environment. I have experience with dictionaries, sets, functions, declarative programming, and automated testing in Python. I am skilled in SQL and experienced in working with databases. I am familiar with the basics of web development in Python, including regular expressions, the HTTP protocol, and OOP. I am also able to develop web applications using the Flask framework.</p>
 <p>I have experience working with relational databases and have completed successful projects, including games of the mind, a difference calculator, and a page analyzer. I am confident in my ability to contribute to a team and deliver high-quality results.</p>
 <p>In my free time, I enjoy reading books and articles about programming, attending online courses and workshops, and working on my own projects. I am also a member of several online communities and forums where I can learn from other experienced developers and share my own knowledge and experience.</p>
-<p>If you are interested in my work or have any questions, please feel free to contact me. I am always happy to discuss new opportunities and challenges in the field of programming and SAP consulting. 😊</p>
+<p>If you are interested in my work or have any questions, please feel free to contact me. I am always happy to discuss new opportunities and challenges in the field of programming and SAP consulting.</p>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
