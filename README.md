@@ -4,6 +4,15 @@
 
 I am excited to learn Python and explore the many possibilities it offers for developing a wide range of applications. As a SAP consultant, I believe that Python can be a valuable tool for automating many of the tasks that I perform on a daily basis and for building powerful data analysis and visualization tools.
 
+Proficient in the use of command line, Git, and setting up a Python environment.
+Experience with dictionaries, sets, functions, declarative programming, and automated testing in Python.
+Skilled in SQL and experienced in working with databases.
+Familiar with the basics of web development in Python, including regular expressions, the HTTP protocol, and OOP.
+Ability to develop web applications using the Flask framework.
+Experience working with relational databases.
+Completed successful projects, including games of the mind, a difference calculator, and a page analyzer.
+Confident in ability to contribute to a team and deliver high-quality results.
+
 In my free time, I enjoy reading books and articles about programming, attending online courses and workshops, and working on my own projects. I am also a member of several online communities and forums where I can learn from other experienced developers and share my own knowledge and experience.
 
 If you are interested in my work or have any questions, please feel free to contact me. I am always happy to discuss new opportunities and challenges in the field of programming and SAP consulting. 😊</h5>
