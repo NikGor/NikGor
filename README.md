@@ -6,7 +6,7 @@
 <p>In my free time, I enjoy reading books and articles about programming, attending online courses and workshops, and working on my own projects. I am also a member of several online communities and forums where I can learn from other experienced developers and share my own knowledge and experience.</p>
 <p>If you are interested in my work or have any questions, please feel free to contact me. I am always happy to discuss new opportunities and challenges in the field of programming and SAP consulting.</p>
 
-<p>❗❗❗ Stay with Ukraine ❗❗❗</p>
+<p>❗❗❗ Stand with Ukraine ❗❗❗</p>
 <p>🇺🇦 Donate to support ukrainian refugees 🇺🇦<br>
 https://helpua.rubikus.de/<br>
 https://wfu.world/</p>
