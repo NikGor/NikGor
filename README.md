@@ -1,10 +1,31 @@
-<h1 align="left">Hi 👋, I'm Nikolai Gordienko</h1>
-<h3 align="left">I'm currently learning Python</h3>
-<p>My name is Nikolay, and I am an SAP consultant. I have been working with SAP systems for several years and have a deep understanding of how these systems work and how to customize them to meet the specific needs of our customers. I am excited to learn Python and explore the many possibilities it offers for developing a wide range of applications. As an SAP consultant, I believe that Python can be a valuable tool for automating many of the tasks that I perform on a daily basis and for building powerful data analysis and visualization tools.</p>
-<p>I am proficient in the use of command line, Git, and setting up a Python environment. I have experience with dictionaries, sets, functions, declarative programming, and automated testing in Python. I am skilled in SQL and experienced in working with databases. I am familiar with the basics of web development in Python, including regular expressions, the HTTP protocol, and OOP. I am also able to develop web applications using the Flask framework.</p>
-<p>I have experience working with relational databases and have completed successful projects, including games of the mind, a difference calculator, and a page analyzer. I am confident in my ability to contribute to a team and deliver high-quality results.</p>
-<p>In my free time, I enjoy reading books and articles about programming, attending online courses and workshops, and working on my own projects. I am also a member of several online communities and forums where I can learn from other experienced developers and share my own knowledge and experience.</p>
-<p>If you are interested in my work or have any questions, please feel free to contact me. I am always happy to discuss new opportunities and challenges in the field of programming and SAP consulting.</p>
+# Hi 👋, I'm Nikolai Gordienko
+
+## Welcome to My GitHub Repository! 🎉
+
+## About Me
+Hi! I'm Nikolai, an aspiring Python developer from Germany, specializing in web development. I'm currently working at Würth IT as an SAP Support Consultant and actively involved in Python development. I enjoy applying my Python skills to solve business challenges. In particular, I developed a prototype for integrating the ticket processing system with LLM at my company, using the OpenAI API, when it was just starting to be talked about. I also regularly prepare reports using Pandas and Jupyter Notebook.
+I am open to job offers for web developer positions in the Stuttgart region.
+
+🌍 **Location:** Stuttgart Region, Germany  
+🔧 **Key Skills:** Python, Django, Flask, FastAPI, Git, Docker, Bootstrap  
+📚 **Learning and Development:** Active participant in open-source projects and hackathons  
+🗣 **Languages:** Russian, Ukrainian, English, German  
+
+## My Projects 🚀
+Here you can find my personal and professional projects, including:
+
+- **Russians for Ukraine** - [Website](https://rfu2022.org), [GitHub Repo](https://github.com/NikGor/rfu) - my main project, the website of the volunteer organization Fundacja RFU, which I developed entirely, including backend on Django, frontend on Bootstrap and JS, and deployment on AWS using Docker.
+- **Task Manager** - [Live Demo](https://taskmanager-production-ed20.up.railway.app/), [GitHub Repo](https://github.com/NikGor/TaskManager/) - my graduation project for web development courses at [Hexlet](https://ru.hexlet.io), on the Django framework, and the frontend part on Bootstrap. The project is a simple task manager. I adapted it for myself and use it as my real task manager for my projects.
+You can check out my other main projects on my
+- 🌐 **Portfolio Site:** [Nikolai's Portfolio](https://nikogordienko.up.railway.app)
+
+## Contact Me 📬
+💬 If you have any questions or would like to discuss collaboration, feel free to contact me:
+
+- 🔗 **LinkedIn:** [Nikolai Gordienko](https://www.linkedin.com/in/nikolai-gordienko-83b4a654/)
+
+Thank you for visiting my repository! I hope you find something interesting and useful here. 🌟
+
 
 <p>❗❗❗ Stand with Ukraine ❗❗❗</p>
 <p>🇺🇦 Donate to support ukrainian refugees 🇺🇦<br>
