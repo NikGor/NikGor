@@ -6,7 +6,7 @@
 Hi! I'm Nikolai, an aspiring Python developer from Germany, specializing in web development. I'm currently working at Würth IT as an SAP Support Consultant and actively involved in Python development. I enjoy applying my Python skills to solve business challenges. In particular, I developed a prototype for integrating the ticket processing system with LLM at my company, using the OpenAI API, when it was just starting to be talked about. I also regularly prepare reports using Pandas and Jupyter Notebook.
 I am open to job offers for web developer positions in the Stuttgart region.
 
-![NikGor_certificate](https://i.postimg.cc/1R8pd33d/Nikolai-Gordienko-Python-en-1.png)
+![NikGor_certificate](https://i.postimg.cc/1R8pd33d/Nikolai-Gordienko-Python-en-1.png){height=20%}
 
 
 🌍 **Location:** Stuttgart Region, Germany  
